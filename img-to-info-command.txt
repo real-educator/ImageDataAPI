@@ -1,0 +1,11 @@
+# Install exiftool
+sudo apt update && sudo apt install exiftool -y
+
+# Install Python dependencies
+pip install flask
+
+# Run the app
+python3 metadata_viewer.py
+
+# Open in browser
+# http://127.0.0.1:5000
