@@ -3,7 +3,7 @@
 
 """
 Professional Metadata Extractor v3.0
-Telegram: @Black_Hats_Hackers
+Telegram: @KSHATRIYA_OP
 """
 
 import os
